@@ -1,0 +1,3 @@
+[submodule "ADFlib"]
+	path = ADFlib
+	url = git@github.com:t-w/ADFlib.git
